@@ -1,2 +1,7 @@
 # Reveal_Outcomes
-A 5-minute Guide to the Reveal Project Outcomes by the MKLab Team
+
+User Interface of the website presenting all the modules developed by MKLab Team during the Reveal project.
+
+DEMO: http://mklab.iti.gr/resources/reveal/
+
+More info on the Reveal project: https://revealproject.eu/about-reveal/
